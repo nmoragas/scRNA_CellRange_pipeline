@@ -74,4 +74,4 @@ python 03_data_analysis_python/03_integration_batch_correction.py  # only if nee
 
 ## License / authorship
 
-_(add before making the repository public)_
+Developed by Núria Moragas
