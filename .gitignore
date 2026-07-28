@@ -1,0 +1,21 @@
+# Dades d'entrada i referencies (mai pugen a Git, massa grans i/o externes)
+data/raw/*
+data/cellranger-10.1.0/*
+data/refdata-gex-GRCh38-2024-A/*
+data/star/*
+!data/raw/.gitkeep
+
+# Resultats generats (es regeneren executant el pipeline)
+results/**/*
+!results/**/.gitkeep
+
+# Objectes de Python/R
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+*.Rproj.user/
+
+# Sistema
+.DS_Store

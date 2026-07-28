@@ -1,0 +1,15 @@
+Loading conda environment multiqc.
+	Unloading apps/java/jdk-21-corretto
+	Loading apps/java/jdk-21-corretto
+
+/// MultiQC 🔍 v1.25.1
+
+     update_config | Report title: GSE174609 Quality Control
+     version_check | MultiQC Version v1.35 now available!
+       file_search | Search path: /mnt/nas-0/hydra/ubs/shared/users/Nuria/courses/scRNA/CellRenger/results/01_preprocessing/1_preqc
+
+            fastqc | Found 1 reports
+
+     write_results | Data        : results/01_preprocessing/1_preqc/multiqc_report_data
+     write_results | Report      : results/01_preprocessing/1_preqc/multiqc_report.html
+           multiqc | MultiQC complete
