@@ -5,7 +5,7 @@ raw fastq files through to clustering, cell type annotation, and differential
 expression.
 
 ## Directory structure   
-
+ 
 ```
 .
 ├── 01_preprocessing_scripts/     # Raw fastq QC + quantification with CellRanger
