@@ -3,7 +3,7 @@
 Preprocessing and analysis pipeline for scRNA-seq data (10x Genomics), from
 raw fastq files through to clustering, cell type annotation, and differential
 expression.
-
+ 
 ## Directory structure        
  
 ```
